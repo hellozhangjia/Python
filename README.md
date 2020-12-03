@@ -22,6 +22,6 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 
-## List of Algorithms
+## List of Algorithm
 
 See our [directory](DIRECTORY.md).
